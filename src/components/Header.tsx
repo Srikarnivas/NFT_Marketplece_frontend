@@ -50,7 +50,7 @@ const Header = () => {
               Testing
             </button>
             <a 
-              href="https://github.com/Srikarnivas/algonest-nft-hub" 
+              href="https://github.com/rushikesh2k04/NFT_opt-in-asset_API" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center space-x-1 bg-gray-900 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-colors"
@@ -84,7 +84,7 @@ const Header = () => {
                 Testing
               </button>
               <a 
-                href="https://github.com/Srikarnivas/algonest-nft-hub" 
+                href="https://github.com/rushikesh2k04/NFT_opt-in-asset_API" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center space-x-1 mx-3 mt-2 bg-gray-900 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition-colors"
